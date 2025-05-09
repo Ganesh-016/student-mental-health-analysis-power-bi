@@ -1,1 +1,1 @@
-This Power BI dashboard presents a comprehensive analysis of mental health data to uncover trends, patterns, and insights related to youth and adult mental well-being. The aim is to assist stakeholders—such as policymakers, mental health professionals, and NGOs—in making data-driven decisions to improve mental health awareness and services.
+This Power BI dashboard presents a comprehensive analysis of mental health data to uncover trends, patterns, and insights related to youth and adult mental well-being.
